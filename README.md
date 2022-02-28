@@ -1,6 +1,14 @@
 # **AccelBeat**
 AccelBeat is a Stepmania theme focused for dance games such as DDR, Pump It Up and ITG, that aims to bring a fresh news experience to players, with flashy graphics like arcade games (soon™), streamlined game flow and advanced functionalities to help you improve your play. Intended for use on [OutFox](https://github.com/TeamRizu/OutFox/), the most active Stepmania fork that's being updated constantly with new features, bugfixes, and has extensive support for different game modes. 
 
+# **Differences From The Original Build** 
+## **Toasty Support**
+*Work in Progress*
+You can now select and use toasties!
+
+## **OutFox Judgment Font Support**
+*Work in Progress*
+You now have the ability to either use the default judgment font or choose one of the ones you've added to your Appearance/Judgments folder!
 
 # **Unique Features** 
 ## **Grid Music Selection**
